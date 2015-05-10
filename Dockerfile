@@ -1,4 +1,4 @@
-FROM telco2011/ubuntu-oracle-java:7.80
+FROM telco2011/ubuntu-oracle-java:14.10jre7u80
 MAINTAINER David Lopez <davidlopez.david@gmail.com>
 
 # Download and start neo4j
